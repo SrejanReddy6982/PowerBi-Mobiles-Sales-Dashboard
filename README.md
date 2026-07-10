@@ -76,17 +76,17 @@ This project focuses on analyzing mobile sales data to identify sales trends, cu
 
 ### Dashboard Overview
 <p align="center">
-  <img src="image1.png.jpeg" width="900">
+  <img src="Image1.png.jpeg" width="900">
 </p>
 
 ### Sales Analysis
 <p align="center">
-  <img src="image2.png.jpeg" width="900">
+  <img src="Image2.png.jpeg" width="900">
 </p>
 
 ### Customer & Payment Analysis
 <p align="center">
-  <img src="image3.png.jpeg" width="900">
+  <img src="Image3.png.jpeg" width="900">
 </p>
 
 ---
